@@ -1,0 +1,45 @@
+body {
+    background-color: goldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 20px 20px;
+    
+    
+    
+    }
+    
+    h1 {
+    color: black;
+    text-align: center;
+    padding: 20px;
+    
+    }
+    
+    .principal {
+    background-color: lightgoldenrodyellow;
+    height: 100vh;
+    margin: 0px;
+    padding-left: 10px;
+        
+    }
+    
+    h2 {
+        color: black;
+        text-align: center;
+        padding: 20px;
+        margin: 0px;
+    }
+    
+    .info {
+        background-color: darkkhaki;
+        margin: 0px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+    
+    }
+
+    #show {
+        text-decoration: underline;
+        font-weight: bold;
+        
+    }
