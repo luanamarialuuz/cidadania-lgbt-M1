@@ -1,0 +1,35 @@
+body{
+    background-color: #dac3cee5;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1{
+    color: blueviolet;
+    text-align: start;
+    padding: 20p
+
+    
+}
+
+.principal{
+    background-color: #EAEAEA;
+    height: 100vh;
+     
+}
+
+
+h2{
+    color: blueviolet;
+    text-align: start;
+    padding: 32px
+}
+.sub-principal{
+    background-color: #EAEAEA;
+    height: 100vh;
+    
+}
+
+
+
